@@ -1,2 +1,2 @@
 theme: jekyll-theme-slate
-exclude: [IDC, Physics, HSS, Biology, Chemistry, index.md]
+exclude: [index.md]
