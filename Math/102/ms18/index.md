@@ -1,0 +1,8 @@
+- [assignments](.\Math\102\ms18\assignments)
+    - [MTH102-HW-3.pdf](Math\102\ms18\assignments\MTH102-HW-3.pdf)
+    - [MTH102-HW-4.pdf](Math\102\ms18\assignments\MTH102-HW-4.pdf)
+    - [MTH102-HW1.pdf](Math\102\ms18\assignments\MTH102-HW1.pdf)
+    - [MTH102-HW2.pdf](Math\102\ms18\assignments\MTH102-HW2.pdf)
+    - [MTH102-HW5.pdf](Math\102\ms18\assignments\MTH102-HW5.pdf)
+    - [MTH102-HW6.pdf](Math\102\ms18\assignments\MTH102-HW6.pdf)
+    - [MTH102-HW7.pdf](Math\102\ms18\assignments\MTH102-HW7.pdf)

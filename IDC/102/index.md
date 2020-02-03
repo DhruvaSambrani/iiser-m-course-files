@@ -1,0 +1,3 @@
+- [OP-AMP](.\IDC\102\OP-AMP)
+    - [inverter.gif](IDC\102\OP-AMP\inverter.gif)
+    - [summer.png](IDC\102\OP-AMP\summer.png)

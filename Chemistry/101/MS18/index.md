@@ -1,0 +1,8 @@
+- [Slides](.\Chemistry\101\MS18\Slides)
+    - [1-2_nomenclature.pdf](Chemistry\101\MS18\Slides\1-2_nomenclature.pdf)
+    - [3-7_Isomerism.pdf](Chemistry\101\MS18\Slides\3-7_Isomerism.pdf)
+    - [8-13_SN-Elimination.pdf](Chemistry\101\MS18\Slides\8-13_SN-Elimination.pdf)
+    - [Addition.pdf](Chemistry\101\MS18\Slides\Addition.pdf)
+    - [carbon monoxide.docx](Chemistry\101\MS18\Slides\carbon%20monoxide.docx)
+    - [Coordination_Chem.pdf](Chemistry\101\MS18\Slides\Coordination_Chem.pdf)
+    - [VBT_MOT.pdf](Chemistry\101\MS18\Slides\VBT_MOT.pdf)

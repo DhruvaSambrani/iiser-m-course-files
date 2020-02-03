@@ -1,0 +1,7 @@
+- [MS17](.\Chemistry\201\MS17)
+    - [Old Assignments](.\Chemistry\201\MS17\Old%20Assignments)
+- [MS18](.\Chemistry\201\MS18)
+    - [Assignments 2019](.\Chemistry\201\MS18\Assignments%202019)
+- [Papers](.\Chemistry\201\Papers)
+    - [Midsem 1.pdf](Chemistry\201\Papers\Midsem%201.pdf)
+    - [Midsem 2.pdf](Chemistry\201\Papers\Midsem%202.pdf)
