@@ -2,13 +2,14 @@ import os
 
 
 def list_files(startpath):
-    with open(os.path.join(startpath, "index.md"), "w") as file:
+    with open(os.path.join(startpath, "index.md"), "w", encoding="utf-8")\
+            as file:
         for root, dirs, files in os.walk(startpath):
-            if root.find(".git") >= 0:
+            if root.find(".git") >= 0 or root == startpath:
                 pass
             else:
-                level = root.replace(startpath, '').count(os.sep)
-                indent = '\t' * (level)
+                level = root.replace(startpath, '').count(os.sep) - 1
+                indent = '    ' * (level)
                 file.write(
                     '{}- {}\n'.format(
                         indent,
