@@ -1,4 +1,4 @@
 - [MS17](.\Biology\202\MS17)
-    - [Bio-202-notes.pdf](Biology\202\MS17\Bio-202-notes.pdf)
-    - [Class Notes.pdf](Biology\202\MS17\Class%20Notes.pdf)
-    - [Measurement of Biodiversity.pdf](Biology\202\MS17\Measurement%20of%20Biodiversity.pdf)
+    - [_Bio-202-notes.pdf_](Bio-202-notes.pdf)
+    - [_Class Notes.pdf_](Class%20Notes.pdf)
+    - [_Measurement of Biodiversity.pdf_](Measurement%20of%20Biodiversity.pdf)

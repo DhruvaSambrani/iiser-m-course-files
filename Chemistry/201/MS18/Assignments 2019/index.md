@@ -1,0 +1,8 @@
+- [_Practice Problems.pdf_](Practice%20Problems.pdf)
+- [_Set 1.pdf_](Set%201.pdf)
+- [_Set 2.pdf_](Set%202.pdf)
+- [_Set 3.pdf_](Set%203.pdf)
+- [_Set 4.pdf_](Set%204.pdf)
+- [_Set 5.pdf_](Set%205.pdf)
+- [_Spectral Problems.pdf_](Spectral%20Problems.pdf)
+- [_Spectral-problems.pptx_](Spectral-problems.pptx)
