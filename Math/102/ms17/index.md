@@ -1,4 +1,5 @@
-## [.](..\..\..)\\[Math](..\..)\\[102](..)\\[ms17]()
+# ms17
+#### [Home](..\..\..)\\[Math](..\..)\\[102](..)\\[ms17]()
 - [PrevHW](PrevHW)
     - [_HW-5.pdf_](PrevHW\HW-5.pdf)
     - [_HW-6.pdf_](PrevHW\HW-6.pdf)

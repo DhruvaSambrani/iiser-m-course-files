@@ -13,18 +13,20 @@ ignored = [
 def list_files(startpath):
     with open(os.path.join(startpath, "index.md"), "w", encoding="utf-8")\
             as file:
-        file.write("## ")
         segs = startpath.split(os.path.sep)
+        file.write("# " + segs[-1] + "\n")
+        file.write("#### ")
         list = []
         for i in range(len(segs)):
             temp = ""
-            temp += "[" + segs[i] + "]"
+            temp += "[" + (segs[i] if segs[i] != "." else "Home") + "]"
             path_str = os.path.sep.join(
                 [".." for j in range(len(segs) - i - 1)])
             temp += "(" + path_str + ")"
             list.append(temp)
-
-        file.write(("\\" + os.path.sep).join(list))
+        file.write(
+            ("\\" +
+             os.path.sep).join(list))
         file.write("\n")
         for root, dirs, files in os.walk(startpath):
             if root.find(".git") >= 0:

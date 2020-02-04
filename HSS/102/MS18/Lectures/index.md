@@ -1,4 +1,5 @@
-## [.](..\..\..\..)\\[HSS](..\..\..)\\[102](..\..)\\[MS18](..)\\[Lectures]()
+# Lectures
+#### [Home](..\..\..\..)\\[HSS](..\..\..)\\[102](..\..)\\[MS18](..)\\[Lectures]()
 - [_Lectures 12, 13_HSS 102_HoS.pdf_](Lectures%2012,%2013_HSS%20102_HoS.pdf)
 - [_Lecture_10_HSS_102_HoS.docx_](Lecture_10_HSS_102_HoS.docx)
 - [_Lecture_1_RB_HSS 102.pptx_](Lecture_1_RB_HSS%20102.pptx)

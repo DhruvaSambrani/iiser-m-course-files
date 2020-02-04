@@ -1,4 +1,5 @@
-## [.](..\..\..)\\[IDC](..\..)\\[204 - TOC](..)\\[class notes]()
+# class notes
+#### [Home](..\..\..)\\[IDC](..\..)\\[204 - TOC](..)\\[class notes]()
 - [_fsa.jpeg_](fsa.jpeg)
 - [_January 16.md_](January%2016.md)
 - [_January 16.pdf_](January%2016.pdf)

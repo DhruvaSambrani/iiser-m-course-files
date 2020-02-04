@@ -1,4 +1,5 @@
-## [.](..\..)\\[Math](..)\\[102]()
+# 102
+#### [Home](..\..)\\[Math](..)\\[102]()
 - [_maths homework.pdf_](maths%20homework.pdf)
 - [ms17](ms17)
     - [PrevHW](ms17\PrevHW)

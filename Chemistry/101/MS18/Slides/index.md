@@ -1,4 +1,5 @@
-## [.](..\..\..\..)\\[Chemistry](..\..\..)\\[101](..\..)\\[MS18](..)\\[Slides]()
+# Slides
+#### [Home](..\..\..\..)\\[Chemistry](..\..\..)\\[101](..\..)\\[MS18](..)\\[Slides]()
 - [_1-2_nomenclature.pdf_](1-2_nomenclature.pdf)
 - [_3-7_Isomerism.pdf_](3-7_Isomerism.pdf)
 - [_8-13_SN-Elimination.pdf_](8-13_SN-Elimination.pdf)

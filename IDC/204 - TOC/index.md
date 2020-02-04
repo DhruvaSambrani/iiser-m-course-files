@@ -1,4 +1,5 @@
-## [.](..\..)\\[IDC](..)\\[204 - TOC]()
+# 204 - TOC
+#### [Home](..\..)\\[IDC](..)\\[204 - TOC]()
 - [_MS17.pdf_](MS17.pdf)
 - [class notes](class%20notes)
     - [_fsa.jpeg_](class%20notes\fsa.jpeg)

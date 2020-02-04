@@ -1,4 +1,5 @@
-## [.](..)\\[IDC]()
+# IDC
+#### [Home](..)\\[IDC]()
 - [101](101)
 - [102](102)
     - [_AC-and-DC-Transistor-Current-Gain-1432-Exp-2.pdf_](102\AC-and-DC-Transistor-Current-Gain-1432-Exp-2.pdf)

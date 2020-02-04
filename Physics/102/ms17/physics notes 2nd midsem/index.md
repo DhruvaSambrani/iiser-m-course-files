@@ -1,4 +1,5 @@
-## [.](..\..\..\..)\\[Physics](..\..\..)\\[102](..\..)\\[ms17](..)\\[physics notes 2nd midsem]()
+# physics notes 2nd midsem
+#### [Home](..\..\..\..)\\[Physics](..\..\..)\\[102](..\..)\\[ms17](..)\\[physics notes 2nd midsem]()
 - [_IMG_20160312_205012.jpg_](IMG_20160312_205012.jpg)
 - [_IMG_20160312_205016.jpg_](IMG_20160312_205016.jpg)
 - [_IMG_20160312_205022.jpg_](IMG_20160312_205022.jpg)
