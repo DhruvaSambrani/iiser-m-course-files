@@ -14,7 +14,7 @@ def list_files(startpath):
     with open(os.path.join(startpath, "index.md"), "w", encoding="utf-8")\
             as file:
         segs = startpath.split(os.path.sep)
-        file.write("# " + segs[-1] + "\n")
+        file.write("# " + (segs[-1] if segs[-1] != "." else "Home") + "\n")
         file.write("#### ")
         list = []
         for i in range(len(segs)):
