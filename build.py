@@ -16,7 +16,8 @@ def list_files(startpath):
                             '{}- {}\n'.format(
                                 indent,
                                 "[" + os.path.basename(root) + "]" +
-                                "(" + root.replace(" ", "%20") + ")"
+                                "(" + os.path.relpath(root, startpath)
+                                .replace(" ", "%20") + ")"
                             )
                         )
                 if level <= 0:
@@ -28,7 +29,9 @@ def list_files(startpath):
                                 '{}- {}\n'.format(
                                     subindent,
                                     "[_" + os.path.basename(f) + "_]" +
-                                    "(" + f.replace(" ", "%20") + ")"
+                                    "(" + os.path.relpath(os.path.join(root, f),
+                                                          startpath)
+                                    .replace(" ", "%20") + ")"
                                 )
                             )
                 else:

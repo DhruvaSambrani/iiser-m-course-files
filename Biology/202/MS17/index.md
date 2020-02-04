@@ -1,3 +1,2 @@
-- [_Bio-202-notes.pdf_](Bio-202-notes.pdf)
 - [_Class Notes.pdf_](Class%20Notes.pdf)
 - [_Measurement of Biodiversity.pdf_](Measurement%20of%20Biodiversity.pdf)
