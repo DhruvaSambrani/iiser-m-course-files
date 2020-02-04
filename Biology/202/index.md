@@ -1,3 +1,6 @@
+- [_Bio-202-notes.pdf_](Bio-202-notes.pdf)
+- [_Moths.pdf_](Moths.pdf)
+- [_Slides.pdf_](Slides.pdf)
 - [MS17](.\Biology\202\MS17)
     - [_Bio-202-notes.pdf_](Bio-202-notes.pdf)
     - [_Class Notes.pdf_](Class%20Notes.pdf)
