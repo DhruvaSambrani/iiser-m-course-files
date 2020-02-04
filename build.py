@@ -1,9 +1,31 @@
 import os
 
+ignored = [
+    "index.md",
+    ".ini",
+    ".yml",
+    "build.py",
+    ".git",
+    "compile",
+    "makenew"]
+
 
 def list_files(startpath):
     with open(os.path.join(startpath, "index.md"), "w", encoding="utf-8")\
             as file:
+        file.write("## ")
+        segs = startpath.split(os.path.sep)
+        list = []
+        for i in range(len(segs)):
+            temp = ""
+            temp += "[" + segs[i] + "]"
+            path_str = os.path.sep.join(
+                [".." for j in range(len(segs) - i - 1)])
+            temp += "(" + path_str + ")"
+            list.append(temp)
+
+        file.write(("\\" + os.path.sep).join(list))
+        file.write("\n")
         for root, dirs, files in os.walk(startpath):
             if root.find(".git") >= 0:
                 pass
@@ -23,17 +45,14 @@ def list_files(startpath):
                 if level <= 0:
                     subindent = ' ' * 4 * (level + 1)
                     for f in files:
-                        if(all(ext not in f for ext in
-                               [".md", ".ini", ".yml", "build.py"])):
+                        if(all(filepart not in f for filepart in ignored)):
+                            file.write(subindent + "- ")
+                            file.write("[_" + os.path.basename(f) + "_]")
+                            path_str = os.path.relpath(
+                                os.path.join(root, f), startpath)
                             file.write(
-                                '{}- {}\n'.format(
-                                    subindent,
-                                    "[_" + os.path.basename(f) + "_]" +
-                                    "(" + os.path.relpath(os.path.join(root, f),
-                                                          startpath)
-                                    .replace(" ", "%20") + ")"
-                                )
-                            )
+                                "(" + path_str.replace(" ", "%20") + ")")
+                            file.write("\n")
                 else:
                     pass
 
