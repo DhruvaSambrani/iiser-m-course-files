@@ -4,6 +4,7 @@
 - [_HSS discussion summary part 1.pdf_](HSS%20discussion%20summary%20part%201.pdf)
 - [_HSS202_MS17.pdf_](HSS202_MS17.pdf)
 - [_kuhn-objectivity.pdf_](kuhn-objectivity.pdf)
+- [_Lecture_7_RB_HSS 102.pdf_](Lecture_7_RB_HSS%20102.pdf)
 - [_Lecture_7_RB_HSS 102.pptx_](Lecture_7_RB_HSS%20102.pptx)
 - [_Lecture_8_RB_HSS_102.pptx_](Lecture_8_RB_HSS_102.pptx)
 - [_Thomas S. Kuhn - The structure of scientific revolutions-The University of Chicago Press (1996).pdf_](Thomas%20S.%20Kuhn%20-%20The%20structure%20of%20scientific%20revolutions-The%20University%20of%20Chicago%20Press%20(1996).pdf)
