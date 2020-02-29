@@ -6,7 +6,7 @@ author: Dhruva Sambrani
 
 Continued -
 
-Q. Find an automaton which accepts a string from L where L on Σ = {0,1} where \#0 == \#1.
+Q. Find an automaton which accepts a string from L where L on Σ = \{0,1\} where \#0 == \#1.
 
 Let the automaton is finite and size N.
 A string that is accepted with no repetition of state must be of less than N length. Any longer string must have a repeated state.
@@ -24,5 +24,5 @@ If L is a regular language, then ∃ a natural number _N_ called the pumping len
    2. |xy| ≤ N
    3. xy<sup>i</sup>z also belogs to L ∀ i=0,1,2,3...
 
-L is a set of strings over {0,1} st the number of 0s exceeds the number of 1s.
+L is a set of strings over \{0,1\} st the number of 0s exceeds the number of 1s.
 Not regular. Pumping lemma on 1<sup>N</sup>0<sup>N+1</sup> proves it.

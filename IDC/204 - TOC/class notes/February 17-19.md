@@ -12,7 +12,7 @@ L<sup>*</sup> **cannot** be proven to be regular by assuming it to be ϵ ∪ L �
 
 ## Building Regular Languages
 Can we build a regular language with the following -
-"ϵ", singletons, {} and operations ∪, ∘, <sup>*</sup>?
+"ϵ", singletons, \{\} and operations ∪, ∘, <sup>*</sup>?
 We know all languages built by such a construction are regular.
 
 **Thm:** **All** regular languages can be built in such a way
@@ -29,10 +29,10 @@ We know all languages built by such a construction are regular.
 - R<sup></sup>
 
 ### Examples
-If Σ = {0,1}
+If Σ = \{0,1\}
 1. 0
 2. 1
-3. 01 } O∪1
+3. 01 \} O∪1
 4. (01)<sup>*</sup>
 5. 011∘(0∪1)<sup>*</sup>
 6. (0∪1)<sup>*</sup>∘111

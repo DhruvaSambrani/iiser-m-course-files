@@ -23,12 +23,12 @@ w1⟹w2⟹w3⟹w4⟹...⟹wn
 
 Then w1 =*⟹ wn
 
-Given a CFG G(= (V,Σ,R,S)), then the language **generated** by it is L<sub>G</sub> = { w | w∈Σ<sup>*</sup> and S =*⟹ w }
+Given a CFG G(= (V,Σ,R,S)), then the language **generated** by it is L<sub>G</sub> = \{ w | w∈Σ<sup>*</sup> and S =*⟹ w \}
 
 ### Example
 In the previous case of the Grammar of arithmetic over add and sub,
-- Σ was {0...9, (, ), +, -}
-- V was {E, N}
+- Σ was \{0...9, (, ), +, -\}
+- V was \{E, N\}
 - R was
   - E → E+E | E-E | (E) | N
   - N → 0 | ... | 9 | NN

@@ -16,9 +16,9 @@ x∉A ≡ "x does not belong to set A"
 -   Unordered.
 
 ### Types ###
-Sets need not be of a particular "type" - {{1,2,3},6,7}
-May also be infinite. {1,2,3,4....}
-Null/Empty set = {} = ∅
+Sets need not be of a particular "type" - \{\{1,2,3\},6,7\}
+May also be infinite. \{1,2,3,4....\}
+Null/Empty set = \{\} = ∅
 
 ### Operations on sets ###
 -   Subset: A⊆B. "A is a subset of B." x∈A<b>⟹ </b> x∈B.
@@ -26,7 +26,7 @@ Null/Empty set = {} = ∅
 -   Proper Subset: A⊂B x∈A ⟹ x∈B ∧ A≠B.
 -   Complement: U∖A **OR** A<sup>c</sup>. Exactly all x's in U NOT in A.
 -   Union: A∪B. "A union B". Exactly all elements in A ∨ B.
-    -   If {A<sub>α</sub>} is a collection of sets indexed by I, then ⋃A<sub>α</sub> = set of x st x∈<sub>α<sub>0</sub></sub> for some α ∈ I.
+    -   If \{A<sub>α</sub>\} is a collection of sets indexed by I, then ⋃A<sub>α</sub> = set of x st x∈<sub>α<sub>0</sub></sub> for some α ∈ I.
 -   Intersection: A∩B "A intersection B". Contains exactly all elements in A **AND** B.
     -   x∈ ⋂A<sub>α</sub> iff x ∀α∈I, x∈A<sub>α</sub>
 -   Cartesian Product: A×B "Cartesian Product of A and B". Its the collection of all 2 element sequences (a,b) st a∈A, b∈B

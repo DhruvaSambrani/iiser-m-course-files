@@ -19,10 +19,10 @@ Given a string, S = c<sub>0</sub>,c<sub>1</sub>...c<sub>n</sub>, M accepts S iff
 2. r<sub>i + 1</sub> = δ(r<sub>i</sub>, c<sub>i</sub>)
 3. r<sub>n+1</sub> ∈ f
 
-A language is recognized by M, iff L = {s | M accepts s}.
+A language is recognized by M, iff L = \{s | M accepts s\}.
 
 ### Example ###
-1. Define a Finite State Automaton that recognizes the language L = 101, Σ = {0,1}. Look at Fig 1 for implementation.
+1. Define a Finite State Automaton that recognizes the language L = 101, Σ = \{0,1\}. Look at Fig 1 for implementation.
 
 
 ![FSA](fsa.jpeg)
@@ -32,7 +32,7 @@ A language is recognized by M, iff L = {s | M accepts s}.
 
 FSAs can be _implemented_ in more than one ways. Is there a _minimal_ implementation?
 
-2. Define a Finite State Automaton that recognizes the language L = {s | s has equal 0s and 1s}, Σ = {0,1}
+2. Define a Finite State Automaton that recognizes the language L = \{s | s has equal 0s and 1s\}, Σ = \{0,1\}
 
 [Pigeonhole Principle](https://en.wikipedia.org/wiki/Pigeonhole_principle)
 

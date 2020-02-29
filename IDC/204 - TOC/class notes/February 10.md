@@ -18,7 +18,7 @@ M' = (Q', Σ, δ', q<sub>0</sub>', F')
 - Q'' = Q × Q'
 - q<sub>0</sub>'' = q<sub>0</sub> × q<sub>0</sub>'
 - δ'' ((q<sub>i</sub>, q<sub>j</sub>'), a) -> (δ(q<sub>i</sub>, a), δ(q<sub>j</sub>', a))
-- F'' = {F×Q' ∪ Q×F'}
+- F'' = \{F×Q' ∪ Q×F'\}
 
 #### Proof that this works -
 let s = w<sub>1</sub>w<sub>2</sub>w<sub>3</sub>...w<sub>n</sub> which is accepted.
