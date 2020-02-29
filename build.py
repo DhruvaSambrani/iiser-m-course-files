@@ -40,7 +40,7 @@ def list_files(startpath):
                                 indent,
                                 "[" + os.path.basename(root) + "]"
                                 "(" + os.path.relpath(root, startpath)
-                                .replace(" ", "%20") + ")"
+                                .replace(" ", "%20").replace(".md", "") + ")"
                             )
                         )
                 if level <= 0:
@@ -52,11 +52,12 @@ def list_files(startpath):
                             path_str = os.path.relpath(
                                 os.path.join(root, f), startpath)
                             file.write(
-                                "(" + path_str.replace(" ", "%20") + ")")
+                                "(" + path_str.replace(" ", "%20")
+                                .replace(".md", "") + ")")
                             file.write("\n")
                 else:
                     pass
 
 
-for root, dirs, files in os.walk(os.getcwd()):
+for root, dirs, files in os.walk("."):
     list_files(root)

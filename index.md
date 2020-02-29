@@ -1,6 +1,6 @@
 # Home
 #### [Home]()
-- [_README.md_](README.md)
+- [_README.md_](README)
 - [Biology](Biology)
     - [101](Biology\101)
     - [102](Biology\102)
