@@ -6,3 +6,7 @@
 - [_Assignment 2_solution.pdf_](Assignment%202_solution.pdf)
 - [_Assignment 3.pdf_](Assignment%203.pdf)
 - [_Assignment 3_solution.pdf_](Assignment%203_solution.pdf)
+- [_Assignment 4.pdf_](Assignment%204.pdf)
+- [_Assignment 4_solution.pdf_](Assignment%204_solution.pdf)
+- [_Assignment 5.pdf_](Assignment%205.pdf)
+- [_Assignment 5_solution.pdf_](Assignment%205_solution.pdf)

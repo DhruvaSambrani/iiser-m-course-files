@@ -25,3 +25,7 @@
     - [_Assignment 2_solution.pdf_](ms18\Assignment%202_solution.pdf)
     - [_Assignment 3.pdf_](ms18\Assignment%203.pdf)
     - [_Assignment 3_solution.pdf_](ms18\Assignment%203_solution.pdf)
+    - [_Assignment 4.pdf_](ms18\Assignment%204.pdf)
+    - [_Assignment 4_solution.pdf_](ms18\Assignment%204_solution.pdf)
+    - [_Assignment 5.pdf_](ms18\Assignment%205.pdf)
+    - [_Assignment 5_solution.pdf_](ms18\Assignment%205_solution.pdf)

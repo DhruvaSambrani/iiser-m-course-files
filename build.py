@@ -25,8 +25,7 @@ def list_files(startpath):
             temp += "(" + path_str + ")"
             list.append(temp)
         file.write(
-            ("\\" +
-             os.path.sep).join(list))
+            ("\\" + os.path.sep).join(list))
         file.write("\n")
         for root, dirs, files in os.walk(startpath):
             if root.find(".git") >= 0:
@@ -39,7 +38,7 @@ def list_files(startpath):
                         file.write(
                             '{}- {}\n'.format(
                                 indent,
-                                "[" + os.path.basename(root) + "]" +
+                                "[" + os.path.basename(root) + "]"
                                 "(" + os.path.relpath(root, startpath)
                                 .replace(" ", "%20") + ")"
                             )
@@ -59,5 +58,5 @@ def list_files(startpath):
                     pass
 
 
-for root, dirs, files in os.walk("."):
+for root, dirs, files in os.walk(os.getcwd()):
     list_files(root)
