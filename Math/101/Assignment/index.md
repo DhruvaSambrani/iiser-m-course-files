@@ -1,5 +1,5 @@
 # Assignment
-#### [Home](..\..\..)\\[Math](..\..)\\[101](..)\\[Assignment]()
+#### [Home](../../..)\/[Math](../..)\/[101](..)\/[Assignment]()
 - [_A1.pdf_](A1.pdf)
 - [_A10.solutions.pdf_](A10.solutions.pdf)
 - [_A10new.pdf_](A10new.pdf)

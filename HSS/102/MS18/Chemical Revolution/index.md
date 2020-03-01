@@ -1,5 +1,5 @@
 # Chemical Revolution
-#### [Home](..\..\..\..)\\[HSS](..\..\..)\\[102](..\..)\\[MS18](..)\\[Chemical Revolution]()
+#### [Home](../../../..)\/[HSS](../../..)\/[102](../..)\/[MS18](..)\/[Chemical Revolution]()
 - [_Blumenthal-Ladyman2017_Reading 3.pdf_](Blumenthal-Ladyman2017_Reading%203.pdf)
 - [_Method and Appraisal in Physical Sciences.pdf_](Method%20and%20Appraisal%20in%20Physical%20Sciences.pdf)
 - [_Oxygen_Study_Guide.pdf_](Oxygen_Study_Guide.pdf)

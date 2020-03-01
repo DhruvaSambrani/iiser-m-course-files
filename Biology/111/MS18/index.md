@@ -1,5 +1,5 @@
 # MS18
-#### [Home](..\..\..)\\[Biology](..\..)\\[111](..)\\[MS18]()
+#### [Home](../../..)\/[Biology](../..)\/[111](..)\/[MS18]()
 - [_bio1.pdf_](bio1.pdf)
 - [_bio2.pdf_](bio2.pdf)
 - [_bio3.pdf_](bio3.pdf)

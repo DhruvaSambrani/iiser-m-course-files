@@ -1,5 +1,5 @@
 # 102
-#### [Home](..\..)\\[IDC](..)\\[102]()
+#### [Home](../..)\/[IDC](..)\/[102]()
 - [_AC-and-DC-Transistor-Current-Gain-1432-Exp-2.pdf_](AC-and-DC-Transistor-Current-Gain-1432-Exp-2.pdf)
 - [_BC107 transistor.pdf_](BC107%20transistor.pdf)
 - [_diff.docx_](diff.docx)
@@ -14,5 +14,5 @@
 - [_op amp graphs my.docx_](op%20amp%20graphs%20my.docx)
 - [_transbas.pdf_](transbas.pdf)
 - [OP-AMP](OP-AMP)
-    - [_inverter.gif_](OP-AMP\inverter.gif)
-    - [_summer.png_](OP-AMP\summer.png)
+    - [_inverter.gif_](OP-AMP/inverter.gif)
+    - [_summer.png_](OP-AMP/summer.png)

@@ -1,5 +1,5 @@
 # ms18
-#### [Home](..\..\..)\\[Chemistry](..\..)\\[202](..)\\[ms18]()
+#### [Home](../../..)\/[Chemistry](../..)\/[202](..)\/[ms18]()
 - [_Assignment 1.pdf_](Assignment%201.pdf)
 - [_Assignment 1_solution.pdf_](Assignment%201_solution.pdf)
 - [_Assignment 2.pdf_](Assignment%202.pdf)

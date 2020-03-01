@@ -1,5 +1,5 @@
 # Tutorial Questions
-#### [Home](..\..\..)\\[Physics](..\..)\\[201](..)\\[Tutorial Questions]()
+#### [Home](../../..)\/[Physics](../..)\/[201](..)\/[Tutorial Questions]()
 - [_Tutorial-1.pdf_](Tutorial-1.pdf)
 - [_Tutorial-1_Solutions.pdf_](Tutorial-1_Solutions.pdf)
 - [_Tutorial-2.pdf_](Tutorial-2.pdf)

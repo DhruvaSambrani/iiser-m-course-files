@@ -1,5 +1,5 @@
 # class notes
-#### [Home](..\..\..)\\[IDC](..\..)\\[204 - TOC](..)\\[class notes]()
+#### [Home](../../..)\/[IDC](../..)\/[204 - TOC](..)\/[class notes]()
 - [_February 10.md_](February%2010)
 - [_February 10.pdf_](February%2010.pdf)
 - [_February 12.md_](February%2012)
@@ -23,4 +23,4 @@
 - [_January 29.pdf_](January%2029.pdf)
 - [_parsetree.jpeg_](parsetree.jpeg)
 - [css](css)
-    - [_my.css_](css\my.css)
+    - [_my.css_](css/my.css)

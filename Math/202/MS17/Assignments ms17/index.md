@@ -1,5 +1,5 @@
 # Assignments ms17
-#### [Home](..\..\..\..)\\[Math](..\..\..)\\[202](..\..)\\[MS17](..)\\[Assignments ms17]()
+#### [Home](../../../..)\/[Math](../../..)\/[202](../..)\/[MS17](..)\/[Assignments ms17]()
 - [_A1.pdf_](A1.pdf)
 - [_A10.pdf_](A10.pdf)
 - [_A11.pdf_](A11.pdf)

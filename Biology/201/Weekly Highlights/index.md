@@ -1,5 +1,5 @@
 # Weekly Highlights
-#### [Home](..\..\..)\\[Biology](..\..)\\[201](..)\\[Weekly Highlights]()
+#### [Home](../../..)\/[Biology](../..)\/[201](..)\/[Weekly Highlights]()
 - [_BIO 201 Weekly Highlights (2019).gsheet_](BIO%20201%20Weekly%20Highlights%20(2019).gsheet)
 - [_Mapping Functions.pdf_](Mapping%20Functions.pdf)
 - [_Week 1 Highlights.pdf_](Week%201%20Highlights.pdf)

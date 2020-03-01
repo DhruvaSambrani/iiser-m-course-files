@@ -1,5 +1,5 @@
 # Assignments - 2019
-#### [Home](..\..\..\..)\\[Math](..\..\..)\\[201](..\..)\\[ms17](..)\\[Assignments - 2019]()
+#### [Home](../../../..)\/[Math](../../..)\/[201](../..)\/[ms17](..)\/[Assignments - 2019]()
 - [_HW1-soln.pdf_](HW1-soln.pdf)
 - [_HW1.pdf_](HW1.pdf)
 - [_HW10-soln.pdf_](HW10-soln.pdf)
