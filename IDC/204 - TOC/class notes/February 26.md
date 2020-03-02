@@ -40,10 +40,3 @@ In the previous case of the Grammar of arithmetic over add and sub,
 
 ## Stack
 FILO - First in Last out. You _push_ into the stack, but you **must** _pop_ out the **last** element only.
-
-## Parse to check if Expr.
-
-Let St be a St.
-
-1. Push E to St
-2. Pop

@@ -23,5 +23,6 @@
     - [_January 27.pdf_](class%20notes/January%2027.pdf)
     - [_January 29.md_](class%20notes/January%2029)
     - [_January 29.pdf_](class%20notes/January%2029.pdf)
+    - [_March 02.md_](class%20notes/March%2002)
     - [_parsetree.jpeg_](class%20notes/parsetree.jpeg)
     - [css](class%20notes/css)
