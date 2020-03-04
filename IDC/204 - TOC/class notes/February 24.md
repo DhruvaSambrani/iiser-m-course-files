@@ -41,11 +41,11 @@ The shortest expressions are those which are numbers.
 
 Hence
 
-E → E+E | E-E | E*E | E/E | (E) | N
+E → E+E \| E-E \| E*E \| E/E \| (E) \| N
 
 where,
 
-N → 0 | 1 | ... | 9 | 0N | 1N | ... | 9N
+N → 0 \| 1 \| ... \| 9 \| 0N \| 1N \| ... \| 9N
 
 Hence checking if a string is E is basically a recursion to check if every part can be reduced to an expression.
 
@@ -56,7 +56,7 @@ Hence checking if a string is E is basically a recursion to check if every part 
 3. E → (N + N) * N
 
 ### 0<sup>N</sup>1<sup>N</sup>
-E → 01 | 0E1
+E → 01 \| 0E1
 
 ### Defn
 

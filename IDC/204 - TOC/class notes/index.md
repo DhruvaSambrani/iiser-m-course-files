@@ -22,6 +22,5 @@
 - [_January 29.md_](January%2029)
 - [_January 29.pdf_](January%2029.pdf)
 - [_March 02.md_](March%2002)
+- [_March 02.pdf_](March%2002.pdf)
 - [_parsetree.jpeg_](parsetree.jpeg)
-- [css](css)
-    - [_my.css_](css/my.css)

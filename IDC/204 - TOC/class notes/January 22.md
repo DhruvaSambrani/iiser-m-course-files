@@ -12,7 +12,7 @@ A language L<sub>1</sub> is a subset of Σ\*
 
 ϵ is an empty string.
 
-If ω \in Σ\*, |ω| = length of the string.
+If ω \in Σ\*, \|ω\| = length of the string.
 
 ### Examples of languages ###
 1.  ∅
@@ -21,7 +21,7 @@ If ω \in Σ\*, |ω| = length of the string.
     >
     > C++ any string of characters the compiler accepts
 3.  Σ = \{a,b\}, L = \{x∈Σ\* st x begins with a & ends with b\}
-4.  Σ = \{0,1,..,9\}, L=\{x | x is the decimal representation of a prime\}
+4.  Σ = \{0,1,..,9\}, L=\{x \| x is the decimal representation of a prime\}
 
 ### Equality of Languages ###
 Languages are equal if the set of strings are equal.
@@ -38,7 +38,7 @@ A bijective mapping from one set to another.
 
 ## Existance of a string in a Language ##
 ### Graph of a function ###
-G(f) = \{x,y | y=f(x)\}
+G(f) = \{x,y \| y=f(x)\}
 
 A string exists in the language if it exists in G(f) where f is the defining function of the Language.
 
@@ -56,7 +56,7 @@ Consider -
 
 Σ = \{0,1\}
 
-l = \{x|x consists of an even number of 1s\}
+l = \{x\|x consists of an even number of 1s\}
 
 Given a string, what do you do?
 

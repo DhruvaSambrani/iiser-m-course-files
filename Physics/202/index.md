@@ -6,4 +6,5 @@
 - [_Assignment_3.pdf_](Assignment_3.pdf)
 - [_Assignment_4.pdf_](Assignment_4.pdf)
 - [_MidSem MS17.pdf_](MidSem%20MS17.pdf)
+- [_Solution_MIDSEM_1_19_20_SS (2) 20200226134638.pdf_](Solution_MIDSEM_1_19_20_SS%20(2)%2020200226134638.pdf)
 - [_Thermodynamics.pdf_](Thermodynamics.pdf)

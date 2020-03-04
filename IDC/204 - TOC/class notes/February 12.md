@@ -32,7 +32,7 @@ Consider the DFA,  D = (Q', Σ, δ', q<sub>0</sub>', F') where  -
     - a∈A
     - E(A) = the set of states connected to some q∈A by ϵ. Trivially, some qs map to themselves via a ϵ.
 - q<sub>0</sub>' = E(q<sub>0</sub>)
-- F' = \{A'∈Q' | A∩F ≠ ∅\}
+- F' = \{A'∈Q' \| A∩F ≠ ∅\}
 
 If S is accepted by N iff ∃ r<sub>0</sub>...r<sub>n</sub> ∈ Q r<sub>0</sub>=q<sub>0</sub> and r<sub>i+1</sub> ∈ δ(r<sub>i</sub>, w<sub>i</sub>)
 

@@ -30,15 +30,15 @@ For every x in domain in discourse, P(x) = True
 
 Suppose a<sub>n</sub> → l
 
-≡ ∃ l ( ∀ϵ>0 ∃N ∈ ℕ ( n>N ⟹ |a<sub>n</sub> - l|<ϵ ) )
+≡ ∃ l ( ∀ϵ>0 ∃N ∈ ℕ ( n>N ⟹ \|a<sub>n</sub> - l\|<ϵ ) )
 
-≡ ∃ l ( ∀ϵ∈ℝ ∃N ∈ ℕ ( n>N ∧ ϵ>0 ⟹ |a<sub>n</sub> - l|<ϵ ) )
+≡ ∃ l ( ∀ϵ∈ℝ ∃N ∈ ℕ ( n>N ∧ ϵ>0 ⟹ \|a<sub>n</sub> - l\|<ϵ ) )
 
 P(n) = "n > N"
 
 Q(ϵ) = "ϵ > 0"
 
-R(l,ϵ,n) = |a<sub>n</sub> - l|<ϵ
+R(l,ϵ,n) = \|a<sub>n</sub> - l\|<ϵ
 
 Hence -
 
@@ -60,7 +60,7 @@ If a<sub>n</sub> does not converge,
 
 ∀l ∃ϵ∈ℝ ∀N∈ℕ ∃n∈ℕ ( P(n) ∧ Q(ϵ) ∧ ¬R(l,ϵ,n) ) )
 
-In English, for all l, there exists ϵ in ℝ and there exists n and N in ℕ such that n>N and ϵ > 0 and | a<sub>n</sub> - l | NOT < ϵ
+In English, for all l, there exists ϵ in ℝ and there exists n and N in ℕ such that n>N and ϵ > 0 and \| a<sub>n</sub> - l \| NOT < ϵ
 
 ## Proofs **only to illustrate** ##
 
@@ -85,13 +85,13 @@ If either ∀ or ∃ is difficult to show, or if ¬P(x) is more well known, you 
 
 Truth Table -
 
-|in1|in2|out|carry|
-| -   | -   | -   | -   |
-| --- | --- | --- | --- |
-|0|0|0|0|
-|0|1|1|0|
-|1|0|1|0|
-|1|1|0|1|
+\|in1\|in2\|out\|carry\|
+\| -   \| -   \| -   \| -   \|
+\| --- \| --- \| --- \| --- \|
+\|0\|0\|0\|0\|
+\|0\|1\|1\|0\|
+\|1\|0\|1\|0\|
+\|1\|1\|0\|1\|
 
 Hence out is the XOR (¬P∧Q) ∨ (¬Q∧P)
 

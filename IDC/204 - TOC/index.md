@@ -24,5 +24,5 @@
     - [_January 29.md_](class%20notes/January%2029)
     - [_January 29.pdf_](class%20notes/January%2029.pdf)
     - [_March 02.md_](class%20notes/March%2002)
+    - [_March 02.pdf_](class%20notes/March%2002.pdf)
     - [_parsetree.jpeg_](class%20notes/parsetree.jpeg)
-    - [css](class%20notes/css)

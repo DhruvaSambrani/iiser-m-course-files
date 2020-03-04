@@ -18,10 +18,10 @@ Suppose it is accepted. Then there must be a repetition of states in the first N
 **Regular Language** A language is said to be a regular if there exists a deterministic FSA, that recognizes it.
 
 ## Pumping Lemma ##
-If L is a regular language, then ∃ a natural number _N_ called the pumping length such that if w is a string in L (i.e. w∈L) & |w| ≥ N, then we can write w=xyz such that
+If L is a regular language, then ∃ a natural number _N_ called the pumping length such that if w is a string in L (i.e. w∈L) & \|w\| ≥ N, then we can write w=xyz such that
 
    1. y is not empty
-   2. |xy| ≤ N
+   2. \|xy\| ≤ N
    3. xy<sup>i</sup>z also belogs to L ∀ i=0,1,2,3...
 
 L is a set of strings over \{0,1\} st the number of 0s exceeds the number of 1s.

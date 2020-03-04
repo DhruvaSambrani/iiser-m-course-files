@@ -22,6 +22,7 @@
     - [_Assignment_3.pdf_](202/Assignment_3.pdf)
     - [_Assignment_4.pdf_](202/Assignment_4.pdf)
     - [_MidSem MS17.pdf_](202/MidSem%20MS17.pdf)
+    - [_Solution_MIDSEM_1_19_20_SS (2) 20200226134638.pdf_](202/Solution_MIDSEM_1_19_20_SS%20(2)%2020200226134638.pdf)
     - [_Thermodynamics.pdf_](202/Thermodynamics.pdf)
 - [211](211)
     - [_phy211-manual-2018.pdf_](211/phy211-manual-2018.pdf)

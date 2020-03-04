@@ -16,7 +16,6 @@
     - [_Schaffer_Discovery, reading 2.pdf_](Chemical%20Revolution/Schaffer_Discovery,%20reading%202.pdf)
     - [_The logic of phlogiston _ Feature _ Education in Chemistry.html_](Chemical%20Revolution/The%20logic%20of%20phlogiston%20_%20Feature%20_%20Education%20in%20Chemistry.html)
 - [Hessen Zilsel](Hessen%20Zilsel)
-    - [_Longitude found.pdf_](Hessen%20Zilsel/Longitude%20found.pdf)
     - [_Pamela Smith.pdf_](Hessen%20Zilsel/Pamela%20Smith.pdf)
     - [_The Social and Economic Roots of the Scientific Revolution.pdf_](Hessen%20Zilsel/The%20Social%20and%20Economic%20Roots%20of%20the%20Scientific%20Revolution.pdf)
     - [_Time, Workplace.pdf_](Hessen%20Zilsel/Time,%20Workplace.pdf)

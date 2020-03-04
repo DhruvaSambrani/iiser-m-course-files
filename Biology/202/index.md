@@ -1,7 +1,9 @@
 # 202
 #### [Home](../..)\/[Biology](..)\/[202]()
-- [_Bio-202-notes.pdf_](Bio-202-notes.pdf)
+- [_an notes.pdf_](an%20notes.pdf)
+- [_ka notes.pdf_](ka%20notes.pdf)
 - [_Moths.pdf_](Moths.pdf)
+- [_Slides 2.pdf_](Slides%202.pdf)
 - [_Slides.pdf_](Slides.pdf)
 - [MS17](MS17)
     - [_Class Notes.pdf_](MS17/Class%20Notes.pdf)
