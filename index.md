@@ -1,6 +1,5 @@
 # Home
 #### [Home]()
-- [__config.yml_](_config.yml)
 - [Biology](Biology)
     - [101](Biology/101)
     - [102](Biology/102)

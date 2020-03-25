@@ -10,5 +10,5 @@
 - [_Assignment 4_solution.pdf_](Assignment%204_solution.pdf)
 - [_Assignment 5.pdf_](Assignment%205.pdf)
 - [_Assignment 5_solution.pdf_](Assignment%205_solution.pdf)
-- [Zoom Videos](Zoom%20Videos)
-    - [2020-03-25](Zoom%20Videos/2020-03-25)
+- [Zoom Videos and Slides](Zoom%20Videos%20and%20Slides)
+    - [2020-03-25](Zoom%20Videos%20and%20Slides/2020-03-25)

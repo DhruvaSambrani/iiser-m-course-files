@@ -29,4 +29,4 @@
     - [_Assignment 4_solution.pdf_](ms18/Assignment%204_solution.pdf)
     - [_Assignment 5.pdf_](ms18/Assignment%205.pdf)
     - [_Assignment 5_solution.pdf_](ms18/Assignment%205_solution.pdf)
-    - [Zoom Videos](ms18/Zoom%20Videos)
+    - [Zoom Videos and Slides](ms18/Zoom%20Videos%20and%20Slides)
