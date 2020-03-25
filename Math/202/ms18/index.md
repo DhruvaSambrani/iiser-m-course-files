@@ -1,3 +1,4 @@
 # ms18
 #### [Home](../../..)\/[Math](../..)\/[202](..)\/[ms18]()
-- [_Assignment_1.pdf_](Assignment_1.pdf)
+- [Corona Class videos](Corona%20Class%20videos)
+    - [2020-03-25](Corona%20Class%20videos/2020-03-25)

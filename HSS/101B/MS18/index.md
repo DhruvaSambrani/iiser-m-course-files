@@ -9,6 +9,7 @@
     - [_Khol Do.docx_](Communalism%20and%20Partition/Khol%20Do.docx)
     - [_Thanda Gosht.docx_](Communalism%20and%20Partition/Thanda%20Gosht.docx)
 - [Draupadi](Draupadi)
+    - [_DelmarFeminism.pdf_](Draupadi/DelmarFeminism.pdf)
     - [_Draupadi.pdf_](Draupadi/Draupadi.pdf)
     - [_Mahabharata02_SabhaParva.pdf_](Draupadi/Mahabharata02_SabhaParva.pdf)
 - [MeToo](MeToo)
