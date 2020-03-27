@@ -12,6 +12,8 @@
     - [_Lecture_7_RB_HSS 102.pdf_](202/Lecture_7_RB_HSS%20102.pdf)
     - [_Lecture_7_RB_HSS 102.pptx_](202/Lecture_7_RB_HSS%20102.pptx)
     - [_Lecture_8_RB_HSS_102.pptx_](202/Lecture_8_RB_HSS_102.pptx)
+    - [_Logic.pdf_](202/Logic.pdf)
+    - [_Logic2.pdf_](202/Logic2.pdf)
     - [_Thomas S. Kuhn - The structure of scientific revolutions-The University of Chicago Press (1996).pdf_](202/Thomas%20S.%20Kuhn%20-%20The%20structure%20of%20scientific%20revolutions-The%20University%20of%20Chicago%20Press%20(1996).pdf)
     - [_[Alan_Chalmers]_What_Is_This_Thing_Called_Science.pdf_](202/[Alan_Chalmers]_What_Is_This_Thing_Called_Science.pdf)
     - [Old](202/Old)
