@@ -1,0 +1,10 @@
+# 2020-03-30
+#### [Home](../../../../..)\/[Math](../../../..)\/[202](../../..)\/[ms18](../..)\/[Zoom Videos](..)\/[2020-03-30]()
+- [_chat.txt_](chat.txt)
+- [_output.mp4_](output.mp4)
+- [_uncompressed_1.mp4_](uncompressed_1.mp4)
+- [_uncompressed_2.mp4_](uncompressed_2.mp4)
+- [_uncompressed_3.mp4_](uncompressed_3.mp4)
+- [_uncompressed_4.mp4_](uncompressed_4.mp4)
+- [_uncompressed_5.mp4_](uncompressed_5.mp4)
+- [_uncompressed_6.mp4_](uncompressed_6.mp4)
