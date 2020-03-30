@@ -7,3 +7,5 @@
     - [_output.mp4_](2020-03-25/output.mp4)
 - [2020-03-27](2020-03-27)
     - [_output.mp4_](2020-03-27/output.mp4)
+    - [_slides.pdf_](2020-03-27/slides.pdf)
+    - [_slides.ppsx_](2020-03-27/slides.ppsx)
