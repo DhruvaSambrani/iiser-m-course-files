@@ -9,3 +9,6 @@
     - [_output.mp4_](2020-03-27/output.mp4)
     - [_slides.pdf_](2020-03-27/slides.pdf)
     - [_slides.ppsx_](2020-03-27/slides.ppsx)
+- [2020-04-01](2020-04-01)
+    - [_notes.txt_](2020-04-01/notes.txt)
+    - [_output.mp4_](2020-04-01/output.mp4)
