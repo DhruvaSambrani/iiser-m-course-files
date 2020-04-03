@@ -3,3 +3,4 @@
 - [_Logic 1.pdf_](Logic%201.pdf)
 - [_Logic 2.pdf_](Logic%202.pdf)
 - [_Logic 3.pdf_](Logic%203.pdf)
+- [_Logic 4.pdf_](Logic%204.pdf)

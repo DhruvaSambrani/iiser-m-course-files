@@ -14,3 +14,4 @@
     - [2020-03-25](Zoom%20Videos%20and%20Slides/2020-03-25)
     - [2020-03-27](Zoom%20Videos%20and%20Slides/2020-03-27)
     - [2020-04-01](Zoom%20Videos%20and%20Slides/2020-04-01)
+    - [2020-04-03](Zoom%20Videos%20and%20Slides/2020-04-03)
