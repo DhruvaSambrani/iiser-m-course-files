@@ -1,10 +1,8 @@
 # 202
 #### [Home](../..)\/[Biology](..)\/[202]()
-- [_an notes.pdf_](an%20notes.pdf)
-- [_ka notes.pdf_](ka%20notes.pdf)
-- [_Moths.pdf_](Moths.pdf)
-- [_Slides 2.pdf_](Slides%202.pdf)
-- [_Slides.pdf_](Slides.pdf)
 - [MS17](MS17)
     - [_Class Notes.pdf_](MS17/Class%20Notes.pdf)
     - [_Measurement of Biodiversity.pdf_](MS17/Measurement%20of%20Biodiversity.pdf)
+- [MS18](MS18)
+    - [Manjari](MS18/Manjari)
+    - [Rhitoban](MS18/Rhitoban)

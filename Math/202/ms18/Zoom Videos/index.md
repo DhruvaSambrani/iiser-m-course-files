@@ -14,3 +14,5 @@
     - [_uncompressed_6.mp4_](2020-03-30/uncompressed_6.mp4)
 - [2020-04-01](2020-04-01)
     - [_output.mp4_](2020-04-01/output.mp4)
+- [2020-04-06](2020-04-06)
+    - [_output.mp4_](2020-04-06/output.mp4)
