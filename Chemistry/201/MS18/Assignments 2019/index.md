@@ -7,4 +7,4 @@
 - [_Set 4.pdf_](Set%204.pdf)
 - [_Set 5.pdf_](Set%205.pdf)
 - [_Spectral Problems.pdf_](Spectral%20Problems.pdf)
-- [_Spectral-problems.pptx_](Spectral-problems.pptx)
+- [_Spectral-problems.pdf_](Spectral-problems.pdf)

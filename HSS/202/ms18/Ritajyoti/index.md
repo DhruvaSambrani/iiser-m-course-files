@@ -6,6 +6,5 @@
 - [_kuhn-objectivity.pdf_](kuhn-objectivity.pdf)
 - [_Lecture Note_PoS_2.pdf_](Lecture%20Note_PoS_2.pdf)
 - [_Lecture_7_RB_HSS 102.pdf_](Lecture_7_RB_HSS%20102.pdf)
-- [_Lecture_7_RB_HSS 102.pptx_](Lecture_7_RB_HSS%20102.pptx)
-- [_Lecture_8_RB_HSS_102.pptx_](Lecture_8_RB_HSS_102.pptx)
+- [_Lecture_8_RB_HSS_102.pdf_](Lecture_8_RB_HSS_102.pdf)
 - [_Mahalanobis' contribution to statistics.pdf_](Mahalanobis'%20contribution%20to%20statistics.pdf)

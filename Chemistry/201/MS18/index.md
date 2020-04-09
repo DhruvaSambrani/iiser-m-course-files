@@ -8,4 +8,4 @@
     - [_Set 4.pdf_](Assignments%202019/Set%204.pdf)
     - [_Set 5.pdf_](Assignments%202019/Set%205.pdf)
     - [_Spectral Problems.pdf_](Assignments%202019/Spectral%20Problems.pdf)
-    - [_Spectral-problems.pptx_](Assignments%202019/Spectral-problems.pptx)
+    - [_Spectral-problems.pdf_](Assignments%202019/Spectral-problems.pdf)
