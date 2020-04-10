@@ -1,6 +1,9 @@
 # ms18
 #### [Home](../../..)\/[HSS](../..)\/[202](..)\/[ms18]()
 - [Neerja](Neerja)
+    - [_Deductive Systems_I_M_Copi.pdf_](Neerja/Deductive%20Systems_I_M_Copi.pdf)
+    - [_Incompleteness of nineteen rules.pdf_](Neerja/Incompleteness%20of%20nineteen%20rules.pdf)
+    - [_Instructions.txt_](Neerja/Instructions.txt)
     - [_Logic 1.pdf_](Neerja/Logic%201.pdf)
     - [_Logic 2.pdf_](Neerja/Logic%202.pdf)
     - [_Logic 3.pdf_](Neerja/Logic%203.pdf)

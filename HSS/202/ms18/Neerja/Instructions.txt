@@ -1,0 +1,3 @@
+I am attaching a copy of the chapter "Deductive Systems" from the book. This is a very readable and the concepts of consistency and completeness, introduced in section 6.4, are important. You may skip section 6.5.
+
+Now that you have (hopefully) seen the definitions of consistency and completeness, I am attaching a short and nice proof of the fact that the nineteen rules that we discussed (rules of inferences+rules of replacement) are incomplete.
