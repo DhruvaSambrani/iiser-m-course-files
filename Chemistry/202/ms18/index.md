@@ -18,3 +18,4 @@
     - [2020-04-03](Zoom%20Videos%20and%20Slides/2020-04-03)
     - [2020-04-09](Zoom%20Videos%20and%20Slides/2020-04-09)
     - [2020-04-15](Zoom%20Videos%20and%20Slides/2020-04-15)
+    - [2020-04-17](Zoom%20Videos%20and%20Slides/2020-04-17)
