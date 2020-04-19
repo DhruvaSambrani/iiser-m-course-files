@@ -7,3 +7,4 @@
 - [_Logic 2.pdf_](Logic%202.pdf)
 - [_Logic 3.pdf_](Logic%203.pdf)
 - [_Logic 4.pdf_](Logic%204.pdf)
+- [_PoS_Solutions to Exercises from Notes.pdf_](PoS_Solutions%20to%20Exercises%20from%20Notes.pdf)

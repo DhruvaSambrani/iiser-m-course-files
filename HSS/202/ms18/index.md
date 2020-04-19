@@ -8,6 +8,7 @@
     - [_Logic 2.pdf_](Neerja/Logic%202.pdf)
     - [_Logic 3.pdf_](Neerja/Logic%203.pdf)
     - [_Logic 4.pdf_](Neerja/Logic%204.pdf)
+    - [_PoS_Solutions to Exercises from Notes.pdf_](Neerja/PoS_Solutions%20to%20Exercises%20from%20Notes.pdf)
 - [Ritajyoti](Ritajyoti)
     - [_Arunabh Ghosh.pdf_](Ritajyoti/Arunabh%20Ghosh.pdf)
     - [_Discussion summary part 2.pdf_](Ritajyoti/Discussion%20summary%20part%202.pdf)
