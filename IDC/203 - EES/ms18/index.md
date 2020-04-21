@@ -7,3 +7,6 @@
 - [_1wLBQVnWFx58rjN9LWaOFPTf7SNqqrLrg (2) 20200303143236.pdf_](1wLBQVnWFx58rjN9LWaOFPTf7SNqqrLrg%20(2)%2020200303143236.pdf)
 - [_zoom 1.pdf_](zoom%201.pdf)
 - [_zoom 2.pdf_](zoom%202.pdf)
+- [Zoom Videos](Zoom%20Videos)
+    - [2020-04-10](Zoom%20Videos/2020-04-10)
+    - [2020-04-21](Zoom%20Videos/2020-04-21)
