@@ -23,5 +23,6 @@
     - [ms18](203%20-%20EES/ms18)
 - [204 - TOC](204%20-%20TOC)
     - [_MS17.pdf_](204%20-%20TOC/MS17.pdf)
+    - [_Zoom videos.md_](204%20-%20TOC/Zoom%20videos)
     - [class notes](204%20-%20TOC/class%20notes)
 - [207 - Crypto](207%20-%20Crypto)

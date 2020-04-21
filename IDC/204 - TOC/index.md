@@ -1,6 +1,7 @@
 # 204 - TOC
 #### [Home](../..)\/[IDC](..)\/[204 - TOC]()
 - [_MS17.pdf_](MS17.pdf)
+- [_Zoom videos.md_](Zoom%20videos)
 - [class notes](class%20notes)
     - [_February 10.md_](class%20notes/February%2010)
     - [_February 10.pdf_](class%20notes/February%2010.pdf)
