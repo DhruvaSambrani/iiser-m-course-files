@@ -1,5 +1,5 @@
 # ms17
-#### [Home](../../..)\/[Math](../..)\/[201](..)\/[ms17]()
+#### [Home](../../..)/[Math](../..)/[201](..)/[ms17]()
 - [_Signed Curvature.pdf_](Signed%20Curvature.pdf)
 - [Assignments - 2019](Assignments%20-%202019)
     - [_HW1-soln.pdf_](Assignments%20-%202019/HW1-soln.pdf)

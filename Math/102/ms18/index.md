@@ -1,5 +1,5 @@
 # ms18
-#### [Home](../../..)\/[Math](../..)\/[102](..)\/[ms18]()
+#### [Home](../../..)/[Math](../..)/[102](..)/[ms18]()
 - [assignments](assignments)
     - [_MTH102-HW-3.pdf_](assignments/MTH102-HW-3.pdf)
     - [_MTH102-HW-4.pdf_](assignments/MTH102-HW-4.pdf)

@@ -1,5 +1,5 @@
 # videos
-#### [Home](../../..)\/[Physics](../..)\/[202](..)\/[videos]()
+#### [Home](../../..)/[Physics](../..)/[202](..)/[videos]()
 - [_Part 1.mp4_](Part%201.mp4)
 - [_Part 2.mp4_](Part%202.mp4)
 - [_Part 3.mp4_](Part%203.mp4)

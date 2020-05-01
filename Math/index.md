@@ -1,5 +1,5 @@
 # Math
-#### [Home](..)\/[Math]()
+#### [Home](..)/[Math]()
 - [101](101)
     - [Assignment](101/Assignment)
 - [102](102)

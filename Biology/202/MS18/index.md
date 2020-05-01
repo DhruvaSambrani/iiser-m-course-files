@@ -1,5 +1,5 @@
 # MS18
-#### [Home](../../..)\/[Biology](../..)\/[202](..)\/[MS18]()
+#### [Home](../../..)/[Biology](../..)/[202](..)/[MS18]()
 - [Manjari](Manjari)
     - [_an notes.pdf_](Manjari/an%20notes.pdf)
     - [_ka notes.pdf_](Manjari/ka%20notes.pdf)

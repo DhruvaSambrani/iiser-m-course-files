@@ -1,5 +1,5 @@
 # Chemistry
-#### [Home](..)\/[Chemistry]()
+#### [Home](..)/[Chemistry]()
 - [101](101)
     - [MS18](101/MS18)
 - [102](102)

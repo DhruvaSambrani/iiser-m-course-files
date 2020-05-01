@@ -1,5 +1,5 @@
 # ms18
-#### [Home](../../..)\/[HSS](../..)\/[202](..)\/[ms18]()
+#### [Home](../../..)/[HSS](../..)/[202](..)/[ms18]()
 - [Neerja](Neerja)
     - [_Deductive Systems_I_M_Copi.pdf_](Neerja/Deductive%20Systems_I_M_Copi.pdf)
     - [_Incompleteness of nineteen rules.pdf_](Neerja/Incompleteness%20of%20nineteen%20rules.pdf)

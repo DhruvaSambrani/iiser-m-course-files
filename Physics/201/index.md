@@ -1,5 +1,5 @@
 # 201
-#### [Home](../..)\/[Physics](..)\/[201]()
+#### [Home](../..)/[Physics](..)/[201]()
 - [Papers](Papers)
     - [_Midsems (1).pdf_](Papers/Midsems%20(1).pdf)
     - [_Midsems (2).pdf_](Papers/Midsems%20(2).pdf)

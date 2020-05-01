@@ -1,5 +1,5 @@
 # 202
-#### [Home](../..)\/[HSS](..)\/[202]()
+#### [Home](../..)/[HSS](..)/[202]()
 - [ms17](ms17)
     - [_Branches of Philosophy.pdf_](ms17/Branches%20of%20Philosophy.pdf)
     - [_Dissolving the Problem of Induction.docx_](ms17/Dissolving%20the%20Problem%20of%20Induction.docx)

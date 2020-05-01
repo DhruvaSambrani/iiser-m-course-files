@@ -1,5 +1,5 @@
 # ms18
-#### [Home](../../..)\/[Chemistry](../..)\/[202](..)\/[ms18]()
+#### [Home](../../..)/[Chemistry](../..)/[202](..)/[ms18]()
 - [_Assignment 1.pdf_](Assignment%201.pdf)
 - [_Assignment 1_solution.pdf_](Assignment%201_solution.pdf)
 - [_Assignment 2.pdf_](Assignment%202.pdf)
@@ -14,6 +14,7 @@
 - [_Assignment 6_solution.pdf_](Assignment%206_solution.pdf)
 - [_Assignment 7.pdf_](Assignment%207.pdf)
 - [_Assignment 7_solution.pdf_](Assignment%207_solution.pdf)
+- [_Assignment 8_solution.pdf_](Assignment%208_solution.pdf)
 - [Zoom Videos and Slides](Zoom%20Videos%20and%20Slides)
     - [2020-03-25](Zoom%20Videos%20and%20Slides/2020-03-25)
     - [2020-03-27](Zoom%20Videos%20and%20Slides/2020-03-27)
@@ -24,3 +25,4 @@
     - [2020-04-17](Zoom%20Videos%20and%20Slides/2020-04-17)
     - [2020-04-21](Zoom%20Videos%20and%20Slides/2020-04-21)
     - [2020-04-24](Zoom%20Videos%20and%20Slides/2020-04-24)
+    - [2020-05-01](Zoom%20Videos%20and%20Slides/2020-05-01)

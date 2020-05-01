@@ -1,5 +1,5 @@
 # 201
-#### [Home](../..)\/[Chemistry](..)\/[201]()
+#### [Home](../..)/[Chemistry](..)/[201]()
 - [MS17](MS17)
     - [Old Assignments](MS17/Old%20Assignments)
 - [MS18](MS18)

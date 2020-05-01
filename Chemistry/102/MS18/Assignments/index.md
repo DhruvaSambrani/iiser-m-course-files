@@ -1,5 +1,5 @@
 # Assignments
-#### [Home](../../../..)\/[Chemistry](../../..)\/[102](../..)\/[MS18](..)\/[Assignments]()
+#### [Home](../../../..)/[Chemistry](../../..)/[102](../..)/[MS18](..)/[Assignments]()
 - [_Assignment 2 (1).jpg_](Assignment%202%20(1).jpg)
 - [_Assignment 2 (2).jpg_](Assignment%202%20(2).jpg)
 - [_Assignment 2 (3).jpg_](Assignment%202%20(3).jpg)

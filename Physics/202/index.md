@@ -1,5 +1,5 @@
 # 202
-#### [Home](../..)\/[Physics](..)\/[202]()
+#### [Home](../..)/[Physics](..)/[202]()
 - [_Assignment_1.pdf_](Assignment_1.pdf)
 - [_Assignment_2.pdf_](Assignment_2.pdf)
 - [_Assignment_3.pdf_](Assignment_3.pdf)

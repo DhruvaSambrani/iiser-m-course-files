@@ -1,5 +1,5 @@
 # class notes
-#### [Home](../../..)\/[IDC](../..)\/[204 - TOC](..)\/[class notes]()
+#### [Home](../../..)/[IDC](../..)/[204 - TOC](..)/[class notes]()
 - [_February 10.md_](February%2010)
 - [_February 10.pdf_](February%2010.pdf)
 - [_February 12.md_](February%2012)

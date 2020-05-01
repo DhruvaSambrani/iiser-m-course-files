@@ -1,5 +1,5 @@
 # Ritajyoti
-#### [Home](../../../..)\/[HSS](../../..)\/[202](../..)\/[ms18](..)\/[Ritajyoti]()
+#### [Home](../../../..)/[HSS](../../..)/[202](../..)/[ms18](..)/[Ritajyoti]()
 - [_Arunabh Ghosh.pdf_](Arunabh%20Ghosh.pdf)
 - [_Discussion summary part 2.pdf_](Discussion%20summary%20part%202.pdf)
 - [_HSS discussion summary part 1.pdf_](HSS%20discussion%20summary%20part%201.pdf)

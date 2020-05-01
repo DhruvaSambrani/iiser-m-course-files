@@ -1,5 +1,5 @@
 # 204 - TOC
-#### [Home](../..)\/[IDC](..)\/[204 - TOC]()
+#### [Home](../..)/[IDC](..)/[204 - TOC]()
 - [_MS17.pdf_](MS17.pdf)
 - [_Zoom videos.md_](Zoom%20videos)
 - [class notes](class%20notes)

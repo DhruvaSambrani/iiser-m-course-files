@@ -1,5 +1,5 @@
 # ms17
-#### [Home](../../..)\/[IDC](../..)\/[203 - EES](..)\/[ms17]()
+#### [Home](../../..)/[IDC](../..)/[203 - EES](..)/[ms17]()
 - [_02 Lecture_IDC203.pdf_](02%20Lecture_IDC203.pdf)
 - [_03IDC 203_new_1.pdf_](03IDC%20203_new_1.pdf)
 - [_04IDC 203_new_1.pdf_](04IDC%20203_new_1.pdf)

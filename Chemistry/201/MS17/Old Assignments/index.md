@@ -1,5 +1,5 @@
 # Old Assignments
-#### [Home](../../../..)\/[Chemistry](../../..)\/[201](../..)\/[MS17](..)\/[Old Assignments]()
+#### [Home](../../../..)/[Chemistry](../../..)/[201](../..)/[MS17](..)/[Old Assignments]()
 - [_assign-1 solutions.pdf_](assign-1%20solutions.pdf)
 - [_assign-2 solutions.pdf_](assign-2%20solutions.pdf)
 - [_assign-3 solutions.pdf_](assign-3%20solutions.pdf)

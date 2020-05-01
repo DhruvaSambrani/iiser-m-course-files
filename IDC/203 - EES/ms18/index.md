@@ -1,5 +1,5 @@
 # ms18
-#### [Home](../../..)\/[IDC](../..)\/[203 - EES](..)\/[ms18]()
+#### [Home](../../..)/[IDC](../..)/[203 - EES](..)/[ms18]()
 - [_11Lecture _IDC203_1.pdf_](11Lecture%20_IDC203_1.pdf)
 - [_1kzSS1eswUicyS6KMPB09z5V0YuLSov7U (2) 20200303143342.pdf_](1kzSS1eswUicyS6KMPB09z5V0YuLSov7U%20(2)%2020200303143342.pdf)
 - [_1ltwBgJ2wEEPHndK7qQ5Cm-7qhFN7MpoX (2) 20200303143335.pdf_](1ltwBgJ2wEEPHndK7qQ5Cm-7qhFN7MpoX%20(2)%2020200303143335.pdf)
