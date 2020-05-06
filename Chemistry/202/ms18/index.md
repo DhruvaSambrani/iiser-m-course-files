@@ -14,6 +14,7 @@
 - [_Assignment 6_solution.pdf_](Assignment%206_solution.pdf)
 - [_Assignment 7.pdf_](Assignment%207.pdf)
 - [_Assignment 7_solution.pdf_](Assignment%207_solution.pdf)
+- [_Assignment 8.pdf_](Assignment%208.pdf)
 - [_Assignment 8_solution.pdf_](Assignment%208_solution.pdf)
 - [Zoom Videos and Slides](Zoom%20Videos%20and%20Slides)
     - [2020-03-25](Zoom%20Videos%20and%20Slides/2020-03-25)
@@ -26,3 +27,4 @@
     - [2020-04-21](Zoom%20Videos%20and%20Slides/2020-04-21)
     - [2020-04-24](Zoom%20Videos%20and%20Slides/2020-04-24)
     - [2020-05-01](Zoom%20Videos%20and%20Slides/2020-05-01)
+    - [2020-05-05](Zoom%20Videos%20and%20Slides/2020-05-05)

@@ -33,5 +33,6 @@
     - [_Assignment 6_solution.pdf_](ms18/Assignment%206_solution.pdf)
     - [_Assignment 7.pdf_](ms18/Assignment%207.pdf)
     - [_Assignment 7_solution.pdf_](ms18/Assignment%207_solution.pdf)
+    - [_Assignment 8.pdf_](ms18/Assignment%208.pdf)
     - [_Assignment 8_solution.pdf_](ms18/Assignment%208_solution.pdf)
     - [Zoom Videos and Slides](ms18/Zoom%20Videos%20and%20Slides)
