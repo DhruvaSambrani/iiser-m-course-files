@@ -28,3 +28,4 @@
     - [2020-04-24](Zoom%20Videos%20and%20Slides/2020-04-24)
     - [2020-05-01](Zoom%20Videos%20and%20Slides/2020-05-01)
     - [2020-05-05](Zoom%20Videos%20and%20Slides/2020-05-05)
+    - [2020-05-08](Zoom%20Videos%20and%20Slides/2020-05-08)
