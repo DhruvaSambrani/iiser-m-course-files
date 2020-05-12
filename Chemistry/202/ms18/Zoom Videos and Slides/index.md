@@ -40,6 +40,7 @@
     - [_2020-05-08_notes.pdf_](2020-05-08/2020-05-08_notes.pdf)
     - [_output.mp4_](2020-05-08/output.mp4)
 - [2020-05-12](2020-05-12)
+    - [_2020-05-12_notes.pdf_](2020-05-12/2020-05-12_notes.pdf)
     - [_output1.mp4_](2020-05-12/output1.mp4)
     - [_output2.mp4_](2020-05-12/output2.mp4)
     - [_output3.mp4_](2020-05-12/output3.mp4)
