@@ -35,4 +35,5 @@
     - [_Assignment 7_solution.pdf_](ms18/Assignment%207_solution.pdf)
     - [_Assignment 8.pdf_](ms18/Assignment%208.pdf)
     - [_Assignment 8_solution.pdf_](ms18/Assignment%208_solution.pdf)
+    - [_Assignment 9.pdf_](ms18/Assignment%209.pdf)
     - [Zoom Videos and Slides](ms18/Zoom%20Videos%20and%20Slides)
