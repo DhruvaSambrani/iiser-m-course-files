@@ -44,3 +44,6 @@
     - [_output1.mp4_](2020-05-12/output1.mp4)
     - [_output2.mp4_](2020-05-12/output2.mp4)
     - [_output3.mp4_](2020-05-12/output3.mp4)
+- [2020-05-14](2020-05-14)
+    - [_2020-05-14_notes.pdf_](2020-05-14/2020-05-14_notes.pdf)
+    - [_output.mp4_](2020-05-14/output.mp4)
