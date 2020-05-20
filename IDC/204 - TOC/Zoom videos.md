@@ -52,3 +52,8 @@
 ## 13th May
 1. [https://www.youtube.com/watch?v=Q0-703Pj6yE](https://www.youtube.com/watch?v=Q0-703Pj6yE)
 2. [https://www.youtube.com/watch?v=n0AzCwiC58o](https://www.youtube.com/watch?v=n0AzCwiC58o)
+
+## 18th May
+1. [https://www.youtube.com/watch?v=-cb_ewbTPM0](https://www.youtube.com/watch?v=-cb_ewbTPM0)
+2. [https://www.youtube.com/watch?v=hIHSZbpkJV8](https://www.youtube.com/watch?v=hIHSZbpkJV8)
+3. [https://www.youtube.com/watch?v=6JR3hSOl9DA](https://www.youtube.com/watch?v=6JR3hSOl9DA)
