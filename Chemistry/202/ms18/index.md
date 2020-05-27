@@ -21,6 +21,7 @@
 - [_Assignment 10.pdf_](Assignment%2010.pdf)
 - [_Assignment 10_solution.pdf_](Assignment%2010_solution.pdf)
 - [_Assignment 11.pdf_](Assignment%2011.pdf)
+- [_Assignment 11_solution.pdf_](Assignment%2011_solution.pdf)
 - [Zoom Videos and Slides](Zoom%20Videos%20and%20Slides)
     - [2020-03-25](Zoom%20Videos%20and%20Slides/2020-03-25)
     - [2020-03-27](Zoom%20Videos%20and%20Slides/2020-03-27)
