@@ -21,7 +21,6 @@
     - [Differentiation and Its Applications Set 1](Set-1_Differentiation_and_its_Applications_Problem_Sheet_Sol.pdf)
     - [Differentiation and Its Applications Set 2](Set-2_Differentiation_and_its_Applications_Problem_Sheet_Sol.pdf)
     - [Sets and Functions](Sets_And_Functions_Sol.pdf)
-    - [Taylor Series](Taylor_Series_Sol.pdf)
     - [Vectors](Vectors_Sol.pdf)
   - TeXFiles
     - [Binomial Theorem](Binomial_Theorem_Tex.pdf)
