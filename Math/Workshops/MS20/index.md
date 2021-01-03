@@ -24,7 +24,7 @@
   - [Vectors](Vectors_Sol.pdf)
 - [TeXFiles](TeXFiles)
   - [Binomial Theorem](Binomial_Theorem_Tex.pdf)
-  - [Complex Numbers](Complex_Numbers__Tex.pdf)
+  - [Complex Numbers](Complex_Numbers_Tex.pdf)
   - [Integration and its Applications](Integration_and_its_Applications_Tex.pdf)
   - [First Order DE and Applications](First_Order_DE_and_Applications_Tex.pdf)
   - [Matrices](Matrices_Tex.pdf)
