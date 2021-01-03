@@ -1,9 +1,9 @@
 # MS18
 #### [Home](../../..)/[Biology](../..)/[202](..)/[MS18]()
 - [Manjari](Manjari)
-    - [_Moths.pdf_](Manjari/Moths.pdf)
-    - [_Slides 2.pdf_](Manjari/Slides%202.pdf)
     - [_Slides.pdf_](Manjari/Slides.pdf)
+    - [_Slides 2.pdf_](Manjari/Slides%202.pdf)
+    - [_Moths.pdf_](Manjari/Moths.pdf)
     - [_an notes.pdf_](Manjari/an%20notes.pdf)
     - [_ka notes.pdf_](Manjari/ka%20notes.pdf)
 - [Rhitoban](Rhitoban)
