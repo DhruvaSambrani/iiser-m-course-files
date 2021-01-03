@@ -1,6 +1,6 @@
 # MS20
 #### [Home](../../..)/[Math](../..)/[Workshops](..)/[MS20]()
-- [Problem Sets](ProblemSets)
+- Problem Sets
   - [Binomial Theorem](Binomial_Theorem.pdf)
   - [Complex Numbers](Complex_Numbers.pdf)
   - [Integration and its Applications](Integration_and_its_Applications.pdf)
@@ -11,7 +11,7 @@
   - [Sets and Functions](Sets_And_Functions.pdf)
   - [Taylor Series](Taylor_Series.pdf)
   - [Vectors](Vectors.pdf)
-- [Solutions](Solutions)
+- Solutions
   - [Binomial Theorem](Binomial_Theorem_Sol.pdf)
   - [Complex Numbers](Complex_Numbers_Sol.pdf)
   - [Integration and its Applications](Integration_and_its_Applications_Sol.pdf)
@@ -22,7 +22,7 @@
   - [Sets and Functions](Sets_And_Functions_Sol.pdf)
   - [Taylor Series](Taylor_Series_Sol.pdf)
   - [Vectors](Vectors_Sol.pdf)
-- [TeXFiles](TeXFiles)
+- TeXFiles
   - [Binomial Theorem](Binomial_Theorem_Tex.pdf)
   - [Complex Numbers](Complex_Numbers_Tex.pdf)
   - [Integration and its Applications](Integration_and_its_Applications_Tex.pdf)
