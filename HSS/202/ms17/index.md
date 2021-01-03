@@ -7,5 +7,5 @@
 - [_HSS202_MS17.pdf_](HSS202_MS17.pdf)
 - [_Philosophy note 1.pdf_](Philosophy%20note%201.pdf)
 - [_Realism 1.pdf_](Realism%201.pdf)
-- [_salmon_introduction_to_philosophy_of_science.pdf_](salmon_introduction_to_philosophy_of_science.pdf)
 - [_Viewpoints of Philosophy of Science.pdf_](Viewpoints%20of%20Philosophy%20of%20Science.pdf)
+- [_salmon_introduction_to_philosophy_of_science.pdf_](salmon_introduction_to_philosophy_of_science.pdf)

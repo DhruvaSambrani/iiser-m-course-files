@@ -41,4 +41,4 @@
     - [_Assignment 10_solution.pdf_](ms18/Assignment%2010_solution.pdf)
     - [_Assignment 11.pdf_](ms18/Assignment%2011.pdf)
     - [_Assignment 11_solution.pdf_](ms18/Assignment%2011_solution.pdf)
-    - [Zoom Videos and Slides](ms18/Zoom%20Videos%20and%20Slides)
+    - [_Zoom Videos.md_](ms18/Zoom%20Videos)

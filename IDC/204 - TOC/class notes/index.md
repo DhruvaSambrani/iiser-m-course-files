@@ -10,7 +10,6 @@
 - [_February 24.pdf_](February%2024.pdf)
 - [_February 26.md_](February%2026)
 - [_February 26.pdf_](February%2026.pdf)
-- [_fsa.jpeg_](fsa.jpeg)
 - [_January 16.md_](January%2016)
 - [_January 16.pdf_](January%2016.pdf)
 - [_January 20.md_](January%2020)
@@ -23,4 +22,5 @@
 - [_January 29.pdf_](January%2029.pdf)
 - [_March 02.md_](March%2002)
 - [_March 02.pdf_](March%2002.pdf)
+- [_fsa.jpeg_](fsa.jpeg)
 - [_parsetree.jpeg_](parsetree.jpeg)

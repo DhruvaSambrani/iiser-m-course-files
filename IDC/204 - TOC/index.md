@@ -13,7 +13,6 @@
     - [_February 24.pdf_](class%20notes/February%2024.pdf)
     - [_February 26.md_](class%20notes/February%2026)
     - [_February 26.pdf_](class%20notes/February%2026.pdf)
-    - [_fsa.jpeg_](class%20notes/fsa.jpeg)
     - [_January 16.md_](class%20notes/January%2016)
     - [_January 16.pdf_](class%20notes/January%2016.pdf)
     - [_January 20.md_](class%20notes/January%2020)
@@ -26,4 +25,5 @@
     - [_January 29.pdf_](class%20notes/January%2029.pdf)
     - [_March 02.md_](class%20notes/March%2002)
     - [_March 02.pdf_](class%20notes/March%2002.pdf)
+    - [_fsa.jpeg_](class%20notes/fsa.jpeg)
     - [_parsetree.jpeg_](class%20notes/parsetree.jpeg)

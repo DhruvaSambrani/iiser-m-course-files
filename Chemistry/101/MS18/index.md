@@ -11,6 +11,6 @@
     - [_3-7_Isomerism.pdf_](Slides/3-7_Isomerism.pdf)
     - [_8-13_SN-Elimination.pdf_](Slides/8-13_SN-Elimination.pdf)
     - [_Addition.pdf_](Slides/Addition.pdf)
-    - [_carbon monoxide.docx_](Slides/carbon%20monoxide.docx)
     - [_Coordination_Chem.pdf_](Slides/Coordination_Chem.pdf)
     - [_VBT_MOT.pdf_](Slides/VBT_MOT.pdf)
+    - [_carbon monoxide.docx_](Slides/carbon%20monoxide.docx)

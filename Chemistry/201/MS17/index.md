@@ -1,6 +1,8 @@
 # MS17
 #### [Home](../../..)/[Chemistry](../..)/[201](..)/[MS17]()
 - [Old Assignments](Old%20Assignments)
+    - [_Last assignment.pdf_](Old%20Assignments/Last%20assignment.pdf)
+    - [_Solutions to last assignment.pdf_](Old%20Assignments/Solutions%20to%20last%20assignment.pdf)
     - [_assign-1 solutions.pdf_](Old%20Assignments/assign-1%20solutions.pdf)
     - [_assign-2 solutions.pdf_](Old%20Assignments/assign-2%20solutions.pdf)
     - [_assign-3 solutions.pdf_](Old%20Assignments/assign-3%20solutions.pdf)
@@ -12,5 +14,3 @@
     - [_assign-5B.pdf_](Old%20Assignments/assign-5B.pdf)
     - [_assign1-Aug 16.pdf_](Old%20Assignments/assign1-Aug%2016.pdf)
     - [_assign2-Aug 23.pdf_](Old%20Assignments/assign2-Aug%2023.pdf)
-    - [_Last assignment.pdf_](Old%20Assignments/Last%20assignment.pdf)
-    - [_Solutions to last assignment.pdf_](Old%20Assignments/Solutions%20to%20last%20assignment.pdf)

@@ -1,6 +1,5 @@
 # Lectures
 #### [Home](../../../..)/[HSS](../../..)/[102](../..)/[MS18](..)/[Lectures]()
-- [_Lectures 12, 13_HSS 102_HoS.pdf_](Lectures%2012,%2013_HSS%20102_HoS.pdf)
 - [_Lecture_10_HSS_102_HoS.docx_](Lecture_10_HSS_102_HoS.docx)
 - [_Lecture_1_RB_HSS 102.pdf_](Lecture_1_RB_HSS%20102.pdf)
 - [_Lecture_2_RB_HSS 102.pdf_](Lecture_2_RB_HSS%20102.pdf)
@@ -9,3 +8,4 @@
 - [_Lecture_5,6.pdf_](Lecture_5,6.pdf)
 - [_Lecture_7.pdf_](Lecture_7.pdf)
 - [_Lecture_8_RB_HSS_102.pdf_](Lecture_8_RB_HSS_102.pdf)
+- [_Lectures 12, 13_HSS 102_HoS.pdf_](Lectures%2012,%2013_HSS%20102_HoS.pdf)

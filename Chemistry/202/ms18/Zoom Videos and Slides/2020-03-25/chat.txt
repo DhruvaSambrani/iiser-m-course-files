@@ -1,8 +1,0 @@
-17:21:45	 From  vishnu soman : what is f?
-17:21:59	 From  vishnu soman : in ln expression
-17:22:04	 From  Tanvi Madaan : Fugacity
-17:43:26	 From  aabhas : If Z(P), how does Z vanishing at one value of P, imply that the integral vanishes?
-17:44:08	 From  aabhas : *Z-1
-17:45:13	 From  Smriti Chhibber : Z is not vanishing z=1 for ideal gas and hence the integral is vanishing
-17:45:38	 From  Dhananjay Joshi : I guess he refers to very low values of p...where Z-1 kind of vanishes for all low Ps
-17:47:48	 From  aabhas : Yes, I corrected it to Z-1.
