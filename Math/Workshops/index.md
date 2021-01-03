@@ -1,6 +1,7 @@
 # Workshops
 #### [Home](../..)/[Math](..)/[Workshops]()
-- <details><summary>MS20<summary>
+- <details>
+  <summary>MS20</summary>
   - Problem Sets
     - [Binomial Theorem](Binomial_Theorem.pdf)
     - [Complex Numbers](Complex_Numbers.pdf)
