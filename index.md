@@ -35,6 +35,7 @@
     - [102](Math/102)
     - [201](Math/201)
     - [202](Math/202)
+    - [Workshops](Math/Workshops)
 - [Physics](Physics)
     - [101](Physics/101)
     - [102](Physics/102)
