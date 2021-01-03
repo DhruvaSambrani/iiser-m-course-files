@@ -1,7 +1,7 @@
 # MS20
 #### [Home](../../..)/[Math](../..)/[Workshops](..)/[MS20]()
 - [Problem Sets](ProblemSets)
-  - [[Binomial Theorem](Binomial_Theorem.pdf)
+  - [Binomial Theorem](Binomial_Theorem.pdf)
   - [Complex Numbers](Complex_Numbers.pdf)
   - [Integration and its Applications](Integration_and_its_Applications.pdf)
   - [First Order DE and Applications](First_Order_DE_and_Applications.pdf)
