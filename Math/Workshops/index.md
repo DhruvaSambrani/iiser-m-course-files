@@ -1,6 +1,6 @@
 # Workshops
 #### [Home](../..)/[Math](..)/[Workshops]()
-- MS20
+- <details><summary>MS20<summary>
   - Problem Sets
     - [Binomial Theorem](Binomial_Theorem.pdf)
     - [Complex Numbers](Complex_Numbers.pdf)
@@ -30,3 +30,4 @@
     - [Differentiation and Its Applications Set 1](Set-1_Differentiation_and_its_Applications_Problem_Sheet_Tex.zip)
     - [Differentiation and Its Applications Set 2](Set-2_Differentiation_and_its_Applications_Problem_Sheet_Tex.zip)
     - [Vectors](Vectors_Tex.zip)
+  </details>
