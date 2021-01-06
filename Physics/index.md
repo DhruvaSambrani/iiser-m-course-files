@@ -9,6 +9,8 @@
     - [_histogram.py_](111/histogram.py)
     - [_prog-least_square_fit.py_](111/prog-least_square_fit.py)
     - [_README-histogram.pdf_](111/README-histogram.pdf)
+- [304](304)
+    - [_Zoom Lectures.md_](304/Zoom%20Lectures)
 - [112](112)
     - [_LabManualPHY112.pdf_](112/LabManualPHY112.pdf)
 - [202](202)
