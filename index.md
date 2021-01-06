@@ -1,6 +1,8 @@
 # Home
 #### [Home]()
+- [_compress-pdf_](compress-pdf)
 - [_make_index.py_](make_index.py)
+- [_compress_](compress)
 - [Chemistry](Chemistry)
     - [102](Chemistry/102)
     - [111](Chemistry/111)
