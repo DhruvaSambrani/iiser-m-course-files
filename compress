@@ -1,0 +1,5 @@
+#!/bin/bash
+
+compress-pdf "$1" "$1.compressed"
+mv "$1" "$1.old"
+mv "$1.compressed" "$1"
