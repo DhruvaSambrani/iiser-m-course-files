@@ -1,8 +1,8 @@
 # MS18
 #### [Home](../../..)/[Biology](../..)/[112](..)/[MS18]()
-- [_P10 Induction.pdf_](P10%20Induction.pdf)
-- [_P1,2 Media and Buffers_final_2015.pdf_](P1,2%20Media%20and%20Buffers_final_2015.pdf)
-- [_P4 Plasmid_Isolation_from_E._coli_final_2015.pdf_](P4%20Plasmid_Isolation_from_E._coli_final_2015.pdf)
-- [_P7,8 PCR.docx_](P7,8%20PCR.docx)
 - [_P9 Restriction Enzymes Digestion and GE.pdf_](P9%20Restriction%20Enzymes%20Digestion%20and%20GE.pdf)
+- [_P7,8 PCR.docx_](P7,8%20PCR.docx)
+- [_P1,2 Media and Buffers_final_2015.pdf_](P1,2%20Media%20and%20Buffers_final_2015.pdf)
 - [_P3,6 Transformation of E. coli_2019.docx_](P3,6%20Transformation%20of%20E.%20coli_2019.docx)
+- [_P4 Plasmid_Isolation_from_E._coli_final_2015.pdf_](P4%20Plasmid_Isolation_from_E._coli_final_2015.pdf)
+- [_P10 Induction.pdf_](P10%20Induction.pdf)
