@@ -1,0 +1,12 @@
+# resources
+#### [Home](../../../..)/[Math](../../..)/[102](../..)/[ms19](..)/[resources]()
+- [_bolanzo.png_](bolanzo.png)
+- [_sup_example.png_](sup_example.png)
+- [_intermediate.png_](intermediate.png)
+- [_cauchy_no.png_](cauchy_no.png)
+- [_cauchy_yes.png_](cauchy_yes.png)
+- [_ref.bib_](ref.bib)
+- [_uniform_no.png_](uniform_no.png)
+- [_uniform_yes.png_](uniform_yes.png)
+- [_lim_sup_prob.png_](lim_sup_prob.png)
+- [_geogebra.png_](geogebra.png)
