@@ -6,7 +6,6 @@
     - [_9-Rajesh-Eukaryotic Transcription and Translation.pdf_](MS18/9-Rajesh-Eukaryotic%20Transcription%20and%20Translation.pdf)
     - [_13-Rajesh-Animal development.pdf_](MS18/13-Rajesh-Animal%20development.pdf)
     - [_5-Rajesh-Cell cycle control.pdf_](MS18/5-Rajesh-Cell%20cycle%20control.pdf)
-    - [_3-Rajesh-Meiosis.pdf_](MS18/3-Rajesh-Meiosis.pdf)
     - [_4-Rajesh-Chromosomes and inheritance.pdf_](MS18/4-Rajesh-Chromosomes%20and%20inheritance.pdf)
     - [_1-Rajesh-Cell division.pdf_](MS18/1-Rajesh-Cell%20division.pdf)
     - [_10-Rajesh-Regulation of Gene Expression in Bacteria.pdf_](MS18/10-Rajesh-Regulation%20of%20Gene%20Expression%20in%20Bacteria.pdf)

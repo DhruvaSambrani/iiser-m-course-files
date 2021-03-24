@@ -9,7 +9,6 @@
     - [_BIO 201 Weekly Highlights (2019).gsheet_](Weekly%20Highlights/BIO%20201%20Weekly%20Highlights%20(2019).gsheet)
     - [_Week 1 Highlights.pdf_](Weekly%20Highlights/Week%201%20Highlights.pdf)
     - [_Week 8 - Understanding Evolutionary Trees.pdf_](Weekly%20Highlights/Week%208%20-%20Understanding%20Evolutionary%20Trees.pdf)
-    - [_Week 11 onwards - Evolution.pdf_](Weekly%20Highlights/Week%2011%20onwards%20-%20Evolution.pdf)
     - [_Week 7 Highlights.pdf_](Weekly%20Highlights/Week%207%20Highlights.pdf)
     - [_Week 9-10 Highlights combined.pdf_](Weekly%20Highlights/Week%209-10%20Highlights%20combined.pdf)
 - [Papers](Papers)

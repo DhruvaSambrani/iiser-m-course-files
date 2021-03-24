@@ -4,7 +4,6 @@
     - [_an notes.pdf_](Manjari/an%20notes.pdf)
     - [_Slides.pdf_](Manjari/Slides.pdf)
     - [_ka notes.pdf_](Manjari/ka%20notes.pdf)
-    - [_Slides 2.pdf_](Manjari/Slides%202.pdf)
     - [_Moths.pdf_](Manjari/Moths.pdf)
 - [Rhitoban](Rhitoban)
     - [_The Dance of the Honeybee.pdf_](Rhitoban/The%20Dance%20of%20the%20Honeybee.pdf)

@@ -13,7 +13,6 @@
     - [_Igneous Petrology.pdf_](ms17/Igneous%20Petrology.pdf)
     - [_3) Igneous Petrology.pdf_](ms17/3)%20Igneous%20Petrology.pdf)
     - [_12Lecture _IDC203_1.pdf_](ms17/12Lecture%20_IDC203_1.pdf)
-    - [_04IDC 203_new_1.pdf_](ms17/04IDC%20203_new_1.pdf)
     - [_02 Lecture_IDC203.pdf_](ms17/02%20Lecture_IDC203.pdf)
     - [_Sedimentology.pdf_](ms17/Sedimentology.pdf)
     - [_2) Sedimentary rocks.pdf_](ms17/2)%20Sedimentary%20rocks.pdf)

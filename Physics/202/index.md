@@ -8,5 +8,4 @@
 - [_Assignment_3.pdf_](Assignment_3.pdf)
 - [_Zoom Videos.md_](Zoom%20Videos)
 - [_MidSem MS17.pdf_](MidSem%20MS17.pdf)
-- [_Notes.pdf_](Notes.pdf)
 - [_Assignment_5.pdf_](Assignment_5.pdf)
