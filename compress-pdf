@@ -54,7 +54,7 @@ fi
 
 # actually do the compression now \o/
 echo >&2 "compressing $infile to $outfile..."
-gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile="$outfile" "$infile" >/dev/null
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.6 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile="$outfile" "$infile" >/dev/null
 
 # if streaming, output the outfile, then remove the tmp files
 if [ $stream -eq 1 ]; then
