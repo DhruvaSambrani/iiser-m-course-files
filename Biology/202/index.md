@@ -4,5 +4,5 @@
     - [_Class Notes.pdf_](MS17/Class%20Notes.pdf)
     - [_Measurement of Biodiversity.pdf_](MS17/Measurement%20of%20Biodiversity.pdf)
 - [MS18](MS18)
-    - [Rhitoban](MS18/Rhitoban)
     - [Manjari](MS18/Manjari)
+    - [Rhitoban](MS18/Rhitoban)
