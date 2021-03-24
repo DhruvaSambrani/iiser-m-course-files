@@ -1,6 +1,5 @@
 # ms17
 #### [Home](../../..)/[HSS](../..)/[202](..)/[ms17]()
-- [_salmon_introduction_to_philosophy_of_science.pdf_](salmon_introduction_to_philosophy_of_science.pdf)
 - [_HSS202.pdf_](HSS202.pdf)
 - [_Dissolving the Problem of Induction.docx_](Dissolving%20the%20Problem%20of%20Induction.docx)
 - [_Philosophy note 1.pdf_](Philosophy%20note%201.pdf)

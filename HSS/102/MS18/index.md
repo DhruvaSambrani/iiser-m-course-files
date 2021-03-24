@@ -21,7 +21,6 @@
     - [_The logic of phlogiston _ Feature _ Education in Chemistry.html_](Chemical%20Revolution/The%20logic%20of%20phlogiston%20_%20Feature%20_%20Education%20in%20Chemistry.html)
     - [_Blumenthal-Ladyman2017_Reading 3.pdf_](Chemical%20Revolution/Blumenthal-Ladyman2017_Reading%203.pdf)
     - [_Oxygen_Study_Guide.pdf_](Chemical%20Revolution/Oxygen_Study_Guide.pdf)
-    - [_Method and Appraisal in Physical Sciences.pdf_](Chemical%20Revolution/Method%20and%20Appraisal%20in%20Physical%20Sciences.pdf)
     - [_Schaffer_Discovery, reading 2.pdf_](Chemical%20Revolution/Schaffer_Discovery,%20reading%202.pdf)
 - [Lectures](Lectures)
     - [_Lecture_1_RB_HSS 102.pdf_](Lectures/Lecture_1_RB_HSS%20102.pdf)
@@ -34,4 +33,3 @@
     - [_Lecture_4.docx_](Lectures/Lecture_4.docx)
     - [_Lecture_8_RB_HSS_102.pdf_](Lectures/Lecture_8_RB_HSS_102.pdf)
 - [Science and War](Science%20and%20War)
-    - [_Science and War.pdf_](Science%20and%20War/Science%20and%20War.pdf)

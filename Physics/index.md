@@ -16,7 +16,6 @@
     - [_Assignment_3.pdf_](202/Assignment_3.pdf)
     - [_Zoom Videos.md_](202/Zoom%20Videos)
     - [_MidSem MS17.pdf_](202/MidSem%20MS17.pdf)
-    - [_Notes.pdf_](202/Notes.pdf)
     - [_Assignment_5.pdf_](202/Assignment_5.pdf)
 - [211](211)
     - [_phy211-manual-2018.pdf_](211/phy211-manual-2018.pdf)

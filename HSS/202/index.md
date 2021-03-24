@@ -5,7 +5,6 @@
     - [Ritajyoti](ms18/Ritajyoti)
     - [Neerja](ms18/Neerja)
 - [ms17](ms17)
-    - [_salmon_introduction_to_philosophy_of_science.pdf_](ms17/salmon_introduction_to_philosophy_of_science.pdf)
     - [_HSS202.pdf_](ms17/HSS202.pdf)
     - [_Dissolving the Problem of Induction.docx_](ms17/Dissolving%20the%20Problem%20of%20Induction.docx)
     - [_Philosophy note 1.pdf_](ms17/Philosophy%20note%201.pdf)
